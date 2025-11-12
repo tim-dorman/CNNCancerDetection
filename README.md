@@ -1,5 +1,6 @@
 # CNNCancerDetection
 This project uses Deep Learning techniques via convolutional neural network (CNN) to identify metastatic cancer in small image patches taken from larger digital pathology scans. The data is taken from this kaggle competition:https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
+
 Overall accuracy of this model was ~0.91 and AUC was ~0.97. 
 
 References for Data:
